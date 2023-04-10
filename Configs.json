@@ -1,0 +1,65 @@
+{
+    "Arsenal": {
+        "configs": [
+            {
+                "name": "arsenal legit ngl",
+                "creator": "rvne#4957",
+                "link": "https://raw.githubusercontent.com/shiro-lua/Celestial-Configs/main/Configs/arsenal_legit_ngl.cfg"
+            }   
+        ]
+    },
+    "universal": {
+        "configs": [
+            {
+                "name": "SwordFighting FFA",
+                "creator": "TG_110#2435",
+                "link": "https://raw.githubusercontent.com/shiro-lua/Celestial-Configs/main/Configs/SwordFightingFFA.cfg"
+            }   
+        ]
+    },
+    "Fortblox": {
+        "configs": [
+            {
+                "name": "Fortblox",
+                "creator": "Xhoenix#7367",
+                "link": "https://raw.githubusercontent.com/shiro-lua/Celestial-Configs/main/Configs/Fortblox.cfg"
+            }   
+        ]
+    },
+    "Rush Point": {
+        "configs": [
+            {
+                "name": "Rush Point",
+                "creator": "Xhoenix#7367",
+                "link": "https://raw.githubusercontent.com/shiro-lua/Celestial-Configs/main/Configs/Rush_Point.cfg"
+            }   
+        ]
+    },
+    "Hood Custom": {
+        "configs": [
+            {
+                "name": "Hood Custom",
+                "creator": "! Duz#7062",
+                "link": "https://raw.githubusercontent.com/shiro-lua/Celestial-Configs/main/Configs/Hood_Custom.cfg"
+            }   
+        ]
+    },
+    "Phantom Forces": {
+        "configs": [
+            {
+                "name": "Phantom Forces",
+                "creator": "cuz#7439",
+                "link": "https://raw.githubusercontent.com/shiro-lua/Celestial-Configs/main/Configs/Phantom_Forces.cfg"
+            }   
+        ]
+    },
+    "Nerf Strike": {
+        "configs": [
+            {
+                "name": "Nerf Strike",
+                "creator": "IAmNotABot#2957", 
+                "link": "https://raw.githubusercontent.com/shiro-lua/Celestial-Configs/main/Configs/nerf_strike.cfg"
+            }   
+        ]
+    }
+}
